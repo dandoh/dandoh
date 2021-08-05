@@ -1,5 +1,7 @@
-### Hi there 👋
+### Nhan Thai 👋
 
+I'm a programming & problem solving enthusiast. I'm currently working as a software engineer in Canada.
+[![Vu-Luong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dandoh)](https://github.com/dandoh)
 <!--
 **dandoh/dandoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
