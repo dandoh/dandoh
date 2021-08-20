@@ -11,6 +11,5 @@
 <a href="https://codeforces.com/profile/dandoh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="dandoh" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dandoh&show_icons=true&locale=en" alt="dandoh" /></p>
 
 
