@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Fullstack Software Development, Functional Programming, Type System, Code Generation**
 
-- ⚡ Fun fact: **I am avid soccer player**
+- ⚡ Fun fact: **I am an avid soccer player**
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
